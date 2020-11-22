@@ -12,7 +12,8 @@ import Swifter
 
 class Session{
    
-    let swifter = Swifter(consumerKey: Secrets.consumerKey, consumerSecret:Secrets.consumerSecret)
+    let swifter = Swifter(consumerKey: Secrets.key, consumerSecret:Secrets.key_secret
+    )
     
     //singleton -> object accessible from anywhere within the project
     static let shared = Session()

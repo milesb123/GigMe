@@ -22,7 +22,7 @@
 		5105869184BF92D6E1680258 /* Pods_GigMeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0452CD9B6AC76093CD618A9C /* Pods_GigMeTests.framework */; };
 		6E35EBE71CABE08F66FDD6E2 /* Pods_GigMe.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91BD765B0783A6682438C218 /* Pods_GigMe.framework */; };
 		F8DEAEC6ECECC459E8CC2A10 /* Pods_GigMe_GigMeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80216AE34522844207AAE9D7 /* Pods_GigMe_GigMeUITests.framework */; };
-		FF6948DE256A610D00B91172 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6948DD256A610D00B91172 /* Secrets.swift */; };
+		FF6948F2256A65C400B91172 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6948F1256A65C400B91172 /* Secrets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,7 +70,7 @@
 		AC4D009C516DB4CDDA0B1329 /* Pods-GigMe-GigMeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GigMe-GigMeUITests.release.xcconfig"; path = "Target Support Files/Pods-GigMe-GigMeUITests/Pods-GigMe-GigMeUITests.release.xcconfig"; sourceTree = "<group>"; };
 		F378A4F2E894D40B672E6743 /* Pods-GigMeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GigMeTests.release.xcconfig"; path = "Target Support Files/Pods-GigMeTests/Pods-GigMeTests.release.xcconfig"; sourceTree = "<group>"; };
 		FBA78155FCC77B2798D406B2 /* Pods-GigMe.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GigMe.debug.xcconfig"; path = "Target Support Files/Pods-GigMe/Pods-GigMe.debug.xcconfig"; sourceTree = "<group>"; };
-		FF6948DD256A610D00B91172 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
+		FF6948F1256A65C400B91172 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,7 +137,7 @@
 				3D87CC65256829B200FDEC54 /* LaunchScreen.storyboard */,
 				3D87CC68256829B200FDEC54 /* Info.plist */,
 				3D87CC62256829B200FDEC54 /* Preview Content */,
-				FF6948DD256A610D00B91172 /* Secrets.swift */,
+				FF6948F1256A65C400B91172 /* Secrets.swift */,
 			);
 			path = GigMe;
 			sourceTree = "<group>";
@@ -430,7 +430,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D5679A225695D2700BD7D44 /* MainViewController.swift in Sources */,
-				FF6948DE256A610D00B91172 /* Secrets.swift in Sources */,
+				FF6948F2256A65C400B91172 /* Secrets.swift in Sources */,
 				3D87CC8E256829C900FDEC54 /* SearchView.swift in Sources */,
 				3D87CCA625686A6B00FDEC54 /* CoreObjects.swift in Sources */,
 				3D87CC9825682AFD00FDEC54 /* Session.swift in Sources */,
