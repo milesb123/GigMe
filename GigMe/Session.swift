@@ -109,7 +109,11 @@ class Session{
     
     private func loadTweetsForHashtags(hashtags:[String],completionHandler:@escaping([Tweet]?,Error?)->Void){
         //Main Query -> Should query for tweets that contain 1 or more of the hashtags input, this search should always contain #gigme
-        
+        var query : String = "%20"
+        for hashtag in hashtags{
+            query.append("\(hashtag)%20")
+        }
+        print(query)
         //NOTE: if you are unfamiliar with completion handlers when the results is found simply call the paramter as below
         DispatchQueue.main.async {
             completionHandler([],nil)
