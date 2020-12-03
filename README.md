@@ -17,6 +17,7 @@ About Us:-
 Computer Science sophomore at VIT, Vellore with an interest in iOS app development , software development and machine learning. (Responsible for parsing JSON objects and adaptation of Data Format)
 
 **Pushpinder Pal Singh** (Responsible for Back-End library integration and query structure)
+
 **Thalia Benitez** 
 computer science student with concentration in computer networks & security at NEIU in US. My favorite hobbies including baking, biking & books. (Responsible for Website, UI/UX wireframes and Firestore Population)
 Devpost:- https://devpost.com/software/gigme-ug8xc4
