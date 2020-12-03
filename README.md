@@ -8,7 +8,9 @@ What it does
 The user will select his profession, skills or interests and gigme using our custom search computations would fetch the most relevant posts on twitter showcasing job openings, internship opportunities etc. User also has the ability to refine his search through various filters and can reach out to the person who tweeted the post. This Saves time, Optimises the search process and helps the user to take advantage of the abundant opportunities on Twitter which could have just diminished otherwise.
 Tech Stack:-
 Built with :heart: using Swift, SwiftUI, Xcode, TwitterKit, Swifter
+
 About Us:-
+
 **Miles Broomfield**, 2nd Year Computer Science Student and aspiring Entrepreneur. I will try to put all food into a wrap for convenience and culinary pleasure. (Responsible for UI/UX Design, Project Management, Front-End and System Architecture)
 
 **Prabaljit Walia**
